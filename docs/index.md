@@ -1,0 +1,44 @@
+# C++从菜鸟到入门
+
+## 新手你好
+
+欢迎来到《C++从菜鸟到入门》文档站，我将带着你一步一步地走过学习这门语言必然要走过的艰难又迷惑的入门道路
+
+当然，这个站点是完全免费的，因为互联网精神其一就是 **开源** ，随着学习，你会发现这个世界有很多教程，他们都秉持着免费开源的精神，为现代付费互联网保留最初的热忱，在教程的后部分，我会为你提供一些和编程有关的资源网站，你将在那里学到这里所没有的知识
+
+## 编程格言
+
+> All problems in computer science can be solved by another level of indirection
+> 
+> 计算机科学中的所有问题都可以通过增加一个间接层来解决
+
+> Programming is like sex. One mistake and you have to support it for the rest of your life
+> 
+> 编程就像性，一个错误必须终身承受
+
+> Simplicity is prerequisite for reliability
+> 
+> 简单是可靠的前提
+
+> It's harder to read code than to write it
+> 
+> 读代码比写代码困难
+
+> Don't reapeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system
+> 
+> 不要重复！在一个系统中，每条知识必须唯一、清晰、权威的表达
+
+> There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors
+> 
+> 计算机科学两件最难的事情：缓存失效，命名和差一错误
+
+> It takes 3 times the effort to find and fix bugs in system test than when done by the developer. It takes 10 times the effort to find and fix bugs in the field than when done in system test. Therefore insist on unit tests by the developer
+> 
+> 系统测试阶段发现和修复bug需要付出的努力是开发者自己解决的3倍。而上线后付出的努力又是系统测试阶段的10倍，因此，开发者一定要自己做单元测试
+
+> Good code is its own best documentation. As you're about to add a comment, ask yourself, 'How can I improve the code so that this comment isn't needed?'
+> 
+> 好的代码有自说明性，当你想添加一条注释时，问下自己“ 我怎么能改进代码从而省略这个注释？”
+
+
+送给你们几句格言，这或许对当下的自己没有什么用处，但是总有一天，你学完了我提供的所有知识，转而去其他地方求索，在不断的 Coding 和 Review 下成为了一个合格的 C++ 开发者之后，甚至不再使用 C++ ，而是 Java、JavaScript、Python、C、Lua、Go 之类语言后，偶然间回到了这个小站，再看这几句话，一定会有不同的想法，从而对编程哲学有更加深入的思考
