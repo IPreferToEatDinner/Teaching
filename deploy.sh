@@ -3,8 +3,8 @@
 # 忽略错误
 set -e
 
-# 不进行构建
-# npm run docs:build
+# 进行构建
+npm run docs:build
 
 # 进入待发布的目录
 cd docs/.vitepress/dist
