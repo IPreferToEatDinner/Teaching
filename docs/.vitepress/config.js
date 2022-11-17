@@ -8,7 +8,7 @@ module.exports = {
 			{
 				text: '写在前面',
 				items: [
-					{ text: '此文档说明', link: '../content/one.md' },
+					{ text: '关于文档', link: '../content/关于文档.md' },
 					{ text: 'Getting Started', link: '/getting-started' },
 				],
 			},
