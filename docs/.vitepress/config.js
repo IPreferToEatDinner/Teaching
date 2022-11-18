@@ -20,14 +20,14 @@ export default {
 
 	themeConfig: {
 		siteTitle: 'C++从菜鸟到入门',
-		
+
 		sidebar: [
 			{
 				text: '在开始之前',
 				collapsible: true,
 				items: [
-					{ text: '关于文档', link: '../content/关于文档.md' },
-					{ text: '环境配置', link: '../content/环境配置.md' },
+					{ text: '关于文档', link: '/content/关于文档.md' },
+					{ text: '环境配置', link: '/content/环境配置.md' },
 				],
 			},
 		],
