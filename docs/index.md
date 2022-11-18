@@ -14,7 +14,7 @@ hero:
       link: /content/关于文档.md
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/IPreferToEatDinner/Teaching
 
 features:
   - icon: 🚩
