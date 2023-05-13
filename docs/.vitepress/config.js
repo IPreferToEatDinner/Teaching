@@ -13,7 +13,7 @@ export default {
 		['meta', { name: 'msvalidate.01', content: 'C246CD2DBA296401E59B4D6C4A608161' }],
 		['meta', { name: 'baidu-site-verification', content: 'code-ZoEDd8If6G' }],
 		[
-			'mata',
+			'meta',
 			{ name: 'google-site-verification', content: 'KCkUS2xxN68tizQOlPyQvim2Ea7HUyjiveK6_iT7kUI' },
 		],
 	],
