@@ -30,6 +30,11 @@ export default {
 					{ text: '环境配置', link: '/content/环境配置.md' },
 				],
 			},
+			{
+				text: '基础知识',
+				collapsible: true,
+				items: [{ text: '数据类型', link: '/content/数据类型.md' }],
+			},
 		],
 	},
 };
