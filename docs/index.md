@@ -10,7 +10,7 @@ hero:
     alt: 聊天图片
   actions:
     - theme: brand
-      text: 开始！
+      text: 开始阅读
       link: /content/关于文档.md
     - theme: alt
       text: View on GitHub

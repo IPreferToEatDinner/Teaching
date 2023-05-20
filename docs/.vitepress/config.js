@@ -33,7 +33,22 @@ export default {
 			{
 				text: '基础知识',
 				collapsible: true,
-				items: [{ text: '数据类型', link: '/content/数据类型.md' }],
+				items: [
+					{ text: '数据类型', link: '/content/数据类型.md' },
+					{
+						text: '函数',
+						items: [
+							{
+								text: '函数总览',
+								link: '/content/函数总览.md',
+							},
+							{
+								text: '函数默认参数',
+								link: '/content/函数默认参数.md',
+							},
+						],
+					},
+				],
 			},
 		],
 	},
