@@ -48,6 +48,19 @@ export default {
 							},
 						],
 					},
+					{
+						text: '文件结构',
+						items: [
+							{
+								text: '头文件',
+								link: '/content/头文件.md',
+							},
+							{
+								text: 'pragma once',
+								link: '/content/pragma once.md',
+							},
+						],
+					},
 				],
 			},
 		],
