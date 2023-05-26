@@ -59,6 +59,10 @@ export default {
 								text: 'pragma once',
 								link: '/content/pragma once.md',
 							},
+							{
+								text: '头文件和命名空间',
+								link: '/content/头文件和命名空间.md',
+							},
 						],
 					},
 				],
