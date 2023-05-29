@@ -1,4 +1,6 @@
-export default {
+import { defineConfig } from 'vitepress';
+
+export default defineConfig({
 	title: 'C++从菜鸟到入门',
 	titleTemplate: '凉开水水水的网站',
 	description:
@@ -8,8 +10,11 @@ export default {
 	lastUpdated: true,
 	lastUpdatedText: '最近更新时间',
 
+	appearance: 'dark',
+
 	//搜索引擎标识头
 	head: [
+		['link', { rel: 'icon', href: '/favicon.ico' }],
 		['meta', { name: 'msvalidate.01', content: 'C246CD2DBA296401E59B4D6C4A608161' }],
 		['meta', { name: 'baidu-site-verification', content: 'code-ZoEDd8If6G' }],
 		[
@@ -20,6 +25,10 @@ export default {
 
 	themeConfig: {
 		siteTitle: 'C++从菜鸟到入门',
+		docFooter: {
+			prev: '上一页',
+			next: '下一页',
+		},
 
 		sidebar: [
 			{
@@ -63,10 +72,14 @@ export default {
 								text: '头文件和命名空间',
 								link: '/content/头文件和命名空间.md',
 							},
+							{
+								text: '命名空间简述',
+								link: '/content/命名空间简述.md',
+							},
 						],
 					},
 				],
 			},
 		],
 	},
-};
+});
