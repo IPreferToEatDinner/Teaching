@@ -44,6 +44,7 @@ export default defineConfig({
 				collapsible: true,
 				items: [
 					{ text: '数据类型', link: '/content/数据类型.md' },
+					{ text: '流程控制', link: '/content/流程控制.md' },
 					{
 						text: '函数',
 						items: [
